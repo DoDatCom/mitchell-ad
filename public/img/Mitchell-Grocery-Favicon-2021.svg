@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="169.04333"
+   height="92.105331"
+   viewBox="0 0 169.04333 92.105331"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48">
+      <path
+         d="m 662.216,151.468 h 379.568 V 288.532 H 662.216 Z"
+         id="path46" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath60">
+      <path
+         d="m 824.339,728.5 h 728.322 V 991.501 H 824.339 Z"
+         id="path58" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath86">
+      <path
+         d="m 662.216,471.469 h 379.568 V 608.532 H 662.216 Z"
+         id="path84" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath106">
+      <path
+         d="m 1338.607,471.469 h 379.568 v 137.063 h -379.568 z"
+         id="path104" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath126">
+      <path
+         d="m 1338.607,151.468 h 379.568 v 137.064 h -379.568 z"
+         id="path124" />
+    </clipPath>
+  </defs>
+  <g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,-1271.7585,1229.8966)">
+    <g
+       id="g54">
+      <g
+         id="g56"
+         clip-path="url(#clipPath60)">
+        <g
+           id="g62"
+           transform="translate(1473.4108,820.51)" />
+        <g
+           id="g66"
+           transform="translate(927.2229,922.4221)">
+          <path
+             style="fill:#ffc70a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 34.929,0 h 110.116 l 8.333,-69.078 H 26.596 Z"
+             id="path378" />
+        </g>
+        <g
+           id="g70"
+           transform="translate(1291.7234,894.9205)">
+          <path
+             style="fill:#e41d34;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m -251.218,-41.577 20.894,40.192 4.849,-40.192 h 14.353 l -8.334,69.079 h -11.221 l -20.819,-40.952 -20.817,40.952 h -11.221 l -8.333,-69.079 h 14.351 l 4.849,40.192 20.893,-40.192 z"
+             id="path316" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
